@@ -1,0 +1,48 @@
+.red{
+    background-color: orangered;
+    color: black;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px black;
+    font-family: Impact;
+}
+.NOTE{
+    font-size: 23px;
+    color: black;
+    font-family: Impact;
+}
+.CD{
+    float: left;
+    }
+.SD{
+    width: 200px;
+    border-radius: 50px;
+}
+#Speed{
+    font-size: 20px;
+    box-shadow:5px 5px 5px black;
+    margin: 15px;
+}
+#Volume{
+    font-size: 20px;
+    box-shadow:5px 5px 5px black;
+    margin: 15px;
+}
+.VOL{
+    float: right;
+}
+.PLAY{
+    font-size: 25px;   
+    box-shadow: black;
+    width: 100px;
+    font-weight: bold;
+    color: black;
+}
+canvas{
+    border: rgb(255, 255, 255);
+    box-shadow:5px 5px 5px rgb(170, 170, 170);
+    margin-top: 350px;
+    
+}
+
